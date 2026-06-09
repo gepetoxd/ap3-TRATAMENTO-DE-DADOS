@@ -1,0 +1,7 @@
+Etapas realizadas no Power Query:
+
+- Promoção de cabeçalhos
+- Alteração de tipos de dados
+- Tratamento de valores nulos
+- Criação da tabela calendário
+- Modelagem em esquema estrela
