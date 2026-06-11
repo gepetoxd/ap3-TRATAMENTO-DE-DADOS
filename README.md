@@ -64,3 +64,18 @@ scripts/
 
 apresentacao/
 └── Documentacao_Projeto.pdf
+
+
+
+Insight 1 — Concentração de vendas em São Paulo
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/f96fd7fb-2417-41e7-8057-e4ca48d57ef0" />
+As análises demonstraram que o estado de São Paulo concentra o maior volume de vendas do marketplace Olist, seguido por RJ e MG.
+
+
+Insight 2 — Categorias com maior faturamento
+<img width="1139" height="535" alt="image" src="https://github.com/user-attachments/assets/a2325c1b-23b6-4057-9314-22def5693772" />
+As categorias beleza_saude e relogios_presentes apresentaram os maiores volumes de vendas dentro do dataset analisado.
+
+Insight 3 — Concentração de vendas em poucos vendedores
+<img width="1464" height="445" alt="image" src="https://github.com/user-attachments/assets/c04f3df3-f3f7-42f0-b93d-4ec56265391f" />
+Foi identificado que poucos vendedores concentram grande parte do faturamento total da plataforma.
